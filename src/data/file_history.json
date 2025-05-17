@@ -1,0 +1,19 @@
+[
+  {
+    "id": "55634519-8a0c-4f0c-8d54-568418078502",
+    "userId": "client_v8nnagtdu",
+    "username": "狮驼王",
+    "avatarUrl": "/profile/client_v8nnagtdu.png",
+    "fileUrl": "/uploads/1747111338521-547718602-hosts.exe",
+    "filename": "hosts.exe",
+    "fileType": "application/x-msdownload",
+    "ip": "127.0.0.1",
+    "location": "未知地区",
+    "browser": {
+      "name": "Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows"
+    },
+    "timestamp": "2025-05-13T04:42:18.534Z"
+  }
+]
